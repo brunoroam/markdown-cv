@@ -4,7 +4,7 @@ title: Franco Sioquim
 ---
 # Franco D. Sioquim
 
-Customer delight and usability is what I love to focus on when building applications. I am a software engineer with a wide spectrum of technologies and languages - from VHDL to Javascript. I’m passionate about web development and helping out teams through mentoring, knowledge of modern technologies, and problem-solving.
+Customer delight and usability is what I love to focus on when building applications. I am a software engineer with a wide spectrum of technologies and languages - from VHDL to Javascript. I’m passionate about web development and helping out teams through mentoring, knowledge of modern technologies, and prob lem-solving.
 
 <div id="webaddress">
 <a href="francosioquim@gmail.com">francosioquim@gmail.com</a>
